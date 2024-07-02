@@ -4,5 +4,6 @@ Console.WriteLine("Hello, World!");
 
 void Hello()
 {
-    Console.WriteLine("Salam Elgun");
+    var number = 2;
+    Console.WriteLine(number);
 }
